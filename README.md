@@ -29,6 +29,5 @@ conda activate elephantdet
 Run inference from the command line:  
 
 ```bash
-cd code
 python predict.py --input INPUT_PATH 
 ```
