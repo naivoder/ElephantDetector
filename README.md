@@ -5,9 +5,9 @@ The model will attempt to differentiate between African and Asian elephants.
 The model is built on a Keras implementation of YOLOv4 written by [taipingeric](https://github.com/taipingeric/yolo-v4-tf.keras).  
 This repository is NOT a training tutorial, it is a functional pretrained object detector.
 
-![AfricanElephant]('imgs/1.png')
+![AfricanElephant](imgs/1.png)
 
-![AsianElephant]('imgs/2.png')
+![AsianElephant](imgs/2.png)
 
 ---
 
